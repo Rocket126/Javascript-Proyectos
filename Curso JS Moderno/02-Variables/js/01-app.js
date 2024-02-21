@@ -14,7 +14,7 @@ producto = "Monitor de 19 pulgadas"
 console.log(producto);//mostrar por consola del navegador
 
 //mensaje de alerta 
-alert(producto);
+//alert(producto);
 
 producto = 20;//ahora el valor es numerico. 
 /*
