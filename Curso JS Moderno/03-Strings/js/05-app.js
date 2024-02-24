@@ -33,7 +33,7 @@ console.log(oracion.substring(0,8));//imprime "monitor"
 //si se invierte la el indice, uno mayor por uno menor, cortara al reves.
 console.log(oracion.substring(2,1));//imprime "o" ya que invierte los numeros, va de la indice 1 al indice 2 dejando fuera el ultimo.
 
-console.log(oracion.charAt(11));//imprime "p"
+console.log(oracion.charAt(11));//imprime  p
 
 
 
