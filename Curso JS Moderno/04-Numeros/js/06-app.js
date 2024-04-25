@@ -9,6 +9,8 @@ let numero4 = 20.2;
 
 console.log(Number.parseInt(numero1));//imprime 20 convertido a numero. 
 
+console.log(typeof numero1);//me duevuelve el tipo en consola. imprime que es un string
+
 console.log(numero1);//imprime el string 20
 
 numero1 = Number.parseInt(numero1);//reasigno el valor parseado a entero

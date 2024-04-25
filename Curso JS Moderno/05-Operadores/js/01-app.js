@@ -11,3 +11,4 @@ console.log(numero3 > numero1);//Retorna verdadero
 console.log(numero1 < numero3);//retorna verdadero
 
 console.log(numero3 < numero1);//Retorna falso
+
