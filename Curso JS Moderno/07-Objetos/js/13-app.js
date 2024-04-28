@@ -8,7 +8,7 @@ const producto = {
 
 
 // object keys devuel un arreglo en este caso del objeto en cuestion
-//asi obtengo las propiedades del objeto como un vector, solo nombres de las propiedades, no sus valores.
+//asi obtengo las propiedades del objeto como un vector, solo sus nombres de las propiedades, no sus valores.
 console.log(Object.keys(producto));
 // 0: nombres
 // 1: precio
