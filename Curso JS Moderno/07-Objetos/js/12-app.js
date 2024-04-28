@@ -9,7 +9,7 @@ const producto = {
 // Objeto constructor / Object Constructor
 function Producto(nombre, precio)
 {
-    this.nombre =  nombre;//this hace referencia a las variables que se encuentran del mismo objeto construcotr
+    this.nombre =  nombre;//this hace referencia a las variables que se encuentran dentro del mismo objeto constructor
     this.precio = precio;
     this.disponible = true;
 }
