@@ -9,6 +9,7 @@ sumar();
 
 
 //Funcion expresiva
+// se crea una variable la cual almacenara la funcion.
 let sumar2 = function()
 {
     console.log(2+5);
